@@ -15,7 +15,6 @@ public class TriangelSquare {
 
         square = (float) (0.5 * ((x1 - x3) * (y2 - y3) - (x2 - x3) * (y1 - y3)));
 
-
         System.out.println("Length of all sides is " + length);
         System.out.println("Square is " + square);
     }

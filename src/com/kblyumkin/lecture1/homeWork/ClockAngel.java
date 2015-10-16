@@ -12,6 +12,7 @@ public class ClockAngel {
         hours = hours * 30;
         if (hours > mins) result = hours - mins;
         else result = mins - hours;
+
         if (result > 180) result = 360 - result;
 
         System.out.println("Anglel between hours and minute narrows is " + result);
