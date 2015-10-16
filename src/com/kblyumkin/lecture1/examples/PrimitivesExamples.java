@@ -2,7 +2,7 @@ package com.kblyumkin.lecture1.examples;
 
 public class PrimitivesExamples {
     public static void main(String[] args) {
-        int first = 5;
+        int first = 4;
         int second = 5;
         int result = first % second;
         boolean b = first == second;

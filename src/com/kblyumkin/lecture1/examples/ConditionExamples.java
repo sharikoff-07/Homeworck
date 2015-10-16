@@ -2,7 +2,7 @@ package com.kblyumkin.lecture1.examples;
 
 public class ConditionExamples {
     public static void main(String[] args) {
-        int first = -10;
+        int first = 10;
 
         if (first >= 0) {
             System.out.println("first is positive");
